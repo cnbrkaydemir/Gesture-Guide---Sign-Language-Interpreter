@@ -40,7 +40,7 @@ To set up and run the Sign Language Interpreter on your machine:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/cnbrkaydemir/Gesture-Guide---Sign-Language-Interpreter.git
-   
+
    cd gesture-guide-sign-language
    ```
 
@@ -59,7 +59,7 @@ Optinally you can utilize the model located in modles/sign.pt for your personal 
 ## **Usage**
 Once the application is running:
 1. **Start webcam**: The application will automatically begin detecting and predicting sign language characters from the webcam feed.
-2. **Display confidence-based characters**: As you show characters, they will appear on the screen you can also experiment with any confidence level using the user interface.
+2. **Display confidence-based characters**: As you show characters, they will appear on the screen, you can also experiment with any confidence level using the user interface.
 
 
 ## **Performance**
