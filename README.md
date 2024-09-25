@@ -6,6 +6,7 @@ The **Sign Language Interpreter** is a machine learning model designed as part o
 
 ![Demo](images/demo-gif.gif)
 
+
 ## **Features**
 - **Real-time sign language character recognition** using a webcam feed.
 - Recognizes **26 static characters** from the English alphabet.
@@ -38,7 +39,8 @@ To set up and run the Sign Language Interpreter on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/gesture-guide-sign-language.git
+   git clone https://github.com/cnbrkaydemir/Gesture-Guide---Sign-Language-Interpreter.git
+   
    cd gesture-guide-sign-language
    ```
 
