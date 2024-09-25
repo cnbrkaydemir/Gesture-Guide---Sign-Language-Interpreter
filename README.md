@@ -4,7 +4,7 @@
 ## **Overview**
 The **Sign Language Interpreter** is a machine learning model designed as part of the Gesture Guide project, a virtual assistant for the hearing-impaired. It recognizes static sign language characters trained from images in real-time using a webcam. This model aims to bridge communication gaps for the hearing-impaired by converting sign language into text.
 
-<video controls src="images/demo sign.mp4" title="Title"></video>
+<video src="images/demo sign.mp4" title="Title"></video>
 
 ## **Features**
 - **Real-time sign language character recognition** using a webcam feed.
@@ -30,7 +30,7 @@ Figure 1: Overview of the images from the Dataset
 
 ![alt text](images/val_batch2_pred.jpg)
 
-Figure 2: Model Predicitions on Validation Set
+Figure 2: Model Predictions on Validation Set
 
   
 ## **Installation**
