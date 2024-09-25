@@ -4,6 +4,8 @@
 ## **Overview**
 The **Sign Language Interpreter** is a machine learning model designed as part of the Gesture Guide project, a virtual assistant for the hearing-impaired. It recognizes static sign language characters trained from images in real-time using a webcam. This model aims to bridge communication gaps for the hearing-impaired by converting sign language into text.
 
+<video controls src="images/demo sign.mp4" title="Title"></video>
+
 ## **Features**
 - **Real-time sign language character recognition** using a webcam feed.
 - Recognizes **26 static characters** from the English alphabet.
@@ -50,6 +52,7 @@ To set up and run the Sign Language Interpreter on your machine:
    streamlit run  main.py
    ```
 Optinally you can utilize the model located in modles/sign.pt for your personal projects using ultralytics library. Since the project is part of our senior project it is unethical to add snippets from model training.      
+
 
 ## **Usage**
 Once the application is running:
